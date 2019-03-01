@@ -1,0 +1,22 @@
+{
+  "name": "websocket-tutorial",
+  "version": "1.0.0",
+  "description": "websocket tutorial, node js, probably java spring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attila-m/websocket-tutorial.git"
+  },
+  "author": "attila-m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attila-m/websocket-tutorial/issues"
+  },
+  "homepage": "https://github.com/attila-m/websocket-tutorial#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
