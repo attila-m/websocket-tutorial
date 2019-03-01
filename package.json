@@ -18,5 +18,8 @@
   "homepage": "https://github.com/attila-m/websocket-tutorial#readme",
   "devDependencies": {
     "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
